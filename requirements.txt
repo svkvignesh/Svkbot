@@ -1,0 +1,3 @@
+reuests
+bs4
+lxml
